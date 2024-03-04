@@ -14,7 +14,6 @@ This Project supplies the neccessary code files to use a suitable fingerprint se
  - Develop your own projects using the knowledge aquired
 
 ## Wiring
-**This Project uses the UART Version of the APC1!!!**
 
 ![wiring diagram]()
   
