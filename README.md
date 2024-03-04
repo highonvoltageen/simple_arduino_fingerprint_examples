@@ -15,7 +15,7 @@ This Project supplies the neccessary code files to use a suitable fingerprint se
 
 ## Wiring
 
-![wiring diagram]()
+![wiring diagram](https://raw.githubusercontent.com/highonvoltageen/simple_arduino_fingerprint_examples/main/wiring.png)
   
 ## License
 
